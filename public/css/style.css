@@ -1,0 +1,17 @@
+body{
+   font-family: 'Poppins', sans-serif;
+}  
+body{
+   background-color: #E9E6EF;
+}
+h2{  background-color: whitesmoke;
+   color:teal;
+}
+h1{
+   color:red;
+   background-color: whitesmoke;
+}
+
+img {
+   border-radius: 5%;
+ }

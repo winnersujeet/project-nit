@@ -1,0 +1,23 @@
+body{
+   font-family: 'Poppins', sans-serif;
+   background-color: #E9E6EF;
+
+      
+    }
+h2{
+   color:teal;
+}
+img {
+   border-radius: 5%;
+ }
+ .header{
+    background-color: aliceblue;
+    color:brown;
+ }
+ .header2{
+   background-color: aliceblue;
+    
+ }
+ h3{
+    color:brown;
+ }
